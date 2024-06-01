@@ -1,6 +1,6 @@
 # Interactive Visualizations with Plotly
 
-In this project, I use Plotly to produce interactive visualizations. Plotly is particularly useful for creating visualizations that will be displayed in a browser, as the visualizations automatically scale to fit the viewer’s screen. These visualizations are interactive; when users hover over certain elements, information about those elements is highlighted. We will build our initial visualization using Plotly Express, a subset of Plotly that focuses on generating plots with minimal code. Once the plot is verified, I customized the output.
+In this project, I use Plotly to produce interactive visualizations. Plotly is particularly useful for creating visualizations that will be displayed in a browser, as the visualizations automatically scale to fit the viewer’s screen. These visualizations are interactive; when users hover over certain elements, information about those elements is highlighted. I will build our initial visualization using Plotly Express, a subset of Plotly that focuses on generating plots with minimal code. Once the plot is verified, I customized the output.
 
 ## Table of Contents
 
